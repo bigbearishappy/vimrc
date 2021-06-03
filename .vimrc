@@ -8,3 +8,5 @@ Plugin 'https://github.com/scrooloose/nerdtree.git'
 "Plugin 'https://github.com/aperezdc/vim-template.git'
 call vundle#end()
 filetype plugin indent on
+
+:set cursorline
